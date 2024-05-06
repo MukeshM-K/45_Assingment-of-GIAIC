@@ -1,0 +1,6 @@
+let Guest_list: string[] = ["Rajesh", "Kapil", "Abdullah"];
+
+for (let i=0; i < Guest_list.length; i++){
+    console.log(`Dear ${Guest_list[i]} :\n you are invited to dinner! \n `);
+    
+}
